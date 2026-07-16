@@ -149,3 +149,4 @@ The model responds with more story text rather than an answer, because it was ne
 - [TinyStories dataset](https://huggingface.co/datasets/roneneldan/TinyStories) — Eldan & Li, Microsoft Research
 - Architecture and training loop style inspired by [nanoGPT](https://github.com/karpathy/nanoGPT) (Andrej Karpathy)
 - GPT-2 tokenizer via [tiktoken](https://github.com/openai/tiktoken) (OpenAI)
+## Screenshot of output
