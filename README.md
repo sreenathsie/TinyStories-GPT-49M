@@ -150,3 +150,4 @@ The model responds with more story text rather than an answer, because it was ne
 - Architecture and training loop style inspired by [nanoGPT](https://github.com/karpathy/nanoGPT) (Andrej Karpathy)
 - GPT-2 tokenizer via [tiktoken](https://github.com/openai/tiktoken) (OpenAI)
 ## Screenshot of output
+https://github.com/sreenathsie/TinyStories-GPT-49M/blob/452606ec94867cb353a2113451131e3d47283f92/Screenshot%202026-07-16%20185401.png
